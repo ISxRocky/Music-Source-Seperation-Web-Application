@@ -3,4 +3,4 @@ tensorflow
 numpy
 pillow
 librosa
-tensorflow_addons
+tensorflow-io
